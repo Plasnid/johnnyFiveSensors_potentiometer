@@ -1,0 +1,2 @@
+# johnnyFiveSensors_potentiometer
+potentiometer setup
